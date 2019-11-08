@@ -1,0 +1,119 @@
+{
+  "devFestEvents": [
+    {
+      "tag": "taichung",
+      "isActive": true,
+      "hasLocalization": true,
+      "name": "DevFest 台中",
+      "host": "GDG 台中",
+      "date": "2019-11-9",
+      "useImageAsset": true,
+      "image": "https://jamaicandevelopers.com/p/devfest-2019/@@images/image",
+      "imageAsset": "assets/images/banner_devFest_taichung.webp",
+      "welcomeText": "GDG DevFest Taichung 2019",
+      "descText": "GDG Taichung (Google Developer Group Taichung) 是以研究 Google 相關技術為主的開發者社群，於每週四晚上聚會，由與會者提供數個 Lightening Talk，並不定期邀請講者分享特定主題、舉辦 Hackthon 或 Workshop 等活動。聚會地點在大台中地區，地點將隨著每次活動發佈。",
+      "location": {
+        "name": "東海大學",
+        "mapTitle": "東海大學推廣部",
+        "mapSubTitle": "407台中市西屯區台灣大道四段1727號",
+        "lat": 24.1824046,
+        "lng": 120.6104689
+      },
+      "links": {
+        "facebook": "https://www.facebook.com/GDG.Taichung",
+        "twitter": "",
+        "linkedinIn": "",
+        "youtube": "",
+        "meetup": "https://www.meetup.com/GDGTaichung",
+        "emailUrl": "",
+        "telegram": "https://t.me/gdg_taichung",
+        "registration": "https://gdgtaichung.kktix.cc/events/devfest-2019-taichung"
+      }
+    },
+    {
+      "tag": "hualien",
+      "isActive": true,
+      "hasLocalization": false,
+      "name": "DevFest 花蓮",
+      "host": "GDG 花蓮",
+      "date": "2019-11-16",
+      "useImageAsset": true,
+      "image": "https://t.kfs.io/upload_images/104306/landing_large.png",
+      "imageAsset": "assets/images/banner_devfest_hualien.webp",
+      "welcomeText": "Welcome to GDG DevFest",
+      "descText": "GDG 花蓮是 2019 年初成立的 Google 技術開發者社群，舉行各類聚會，包含演講、自由交流、 workshop, study jam, 及年會 Devfest。由於創立成員與花蓮 Python 社群重疊度很高，議題較偏向開源技術，如  Tensorflow, Keras, Kotlin, Docker, Android, 以及 Python 和 Raspberry Pi 上 Google 的 API，讓不同專業以及不同背景的高手，能互相交流、擦出火花。在初學者方面，我們也利用建置雲端環境的方式，自然而然的介紹 linux 命令列、 git、 ssh 等開源技術常見的工具和觀念。 ",
+      "location": {
+        "name": "花蓮藍天麗池飯店",
+        "mapTitle": "花蓮藍天麗池飯店 (AZURE HOTEL) 2樓",
+        "mapSubTitle": "970 花蓮縣花蓮市中正路590號",
+        "lat": 23.979008,
+        "lng": 121.610195
+      },
+      "links": {
+        "facebook": "https://www.facebook.com/GDGHualien",
+        "twitter": "",
+        "linkedinIn": "",
+        "youtube": "",
+        "meetup": "https://www.meetup.com/GDG-Hualien/",
+        "emailUrl": "",
+        "registration": "https://gdghualien.kktix.cc/events/devfest2019"
+      }
+    },
+    {
+      "tag": "taipei",
+      "isActive": false,
+      "hasLocalization": false,
+      "name": "DevFest 台北",
+      "host": "GDG 台北",
+      "date": "2019-12-01",
+      "useImageAsset": false,
+      "image": "https://jamaicandevelopers.com/p/devfest-2019/@@images/image",
+      "imageAsset": "",
+      "welcomeText": "Welcome to GDG DevFest",
+      "descText": "''DevFests are community-led, developer events hosted by GDG chapters around the globe focused on community building & learning about Google’s technologies. Each DevFest is inspired by and uniquely tailored to the needs of the developer community and region that hosts it.''",
+      "location": {
+        "name": "台北科技大學",
+        "mapTitle": "Google Office",
+        "mapSubTitle": "Shoreline Amphitheatre, Mountain View, CA",
+        "lat": 37.42796133580664,
+        "lng": -122.085749655962
+      },
+      "links": {
+        "facebook": "https://facebook.com/imthepk",
+        "twitter": "https://twitter.com/imthepk",
+        "linkedinIn": "https://linkedin.com/in/imthepk",
+        "youtube": "https://youtube.com/mtechviral",
+        "meetup": "https://meetup.com/",
+        "emailUrl": "''mailto:mtechviral@gmail.com?subject=Support Needed For DevFest App&body={Name: Pawan Kumar},Email: pawan221b@gmail.com}''"
+      }
+    },
+    {
+      "tag": "kaohsiung",
+      "isActive": false,
+      "hasLocalization": false,
+      "name": "DevFest 高雄",
+      "host": "GDG 高雄",
+      "date": "2019-12-09",
+      "useImageAsset": false,
+      "image": "https://jamaicandevelopers.com/p/devfest-2019/@@images/image",
+      "imageAsset": "",
+      "welcomeText": "Welcome to GDG DevFest",
+      "descText": "''DevFests are community-led, developer events hosted by GDG chapters around the globe focused on community building & learning about Google’s technologies. Each DevFest is inspired by and uniquely tailored to the needs of the developer community and region that hosts it.''",
+      "location": {
+        "name": "DAKUO",
+        "mapTitle": "Google Office",
+        "mapSubTitle": "Shoreline Amphitheatre, Mountain View, CA",
+        "lat": 37.42796133580664,
+        "lng": -122.085749655962
+      },
+      "links": {
+        "facebook": "https://facebook.com/imthepk",
+        "twitter": "https://twitter.com/imthepk",
+        "linkedinIn": "https://linkedin.com/in/imthepk",
+        "youtube": "https://youtube.com/mtechviral",
+        "meetup": "https://meetup.com/",
+        "emailUrl": "''mailto:mtechviral@gmail.com?subject=Support Needed For DevFest App&body={Name: Pawan Kumar},Email: pawan221b@gmail.com}''"
+      }
+    }
+  ]
+}
