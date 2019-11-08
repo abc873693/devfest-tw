@@ -1,4 +1,4 @@
-file:///Users/rainvisitor/Documents/GitHub/GDG-DevFest-App/.dart_tool/flutter_build/41d274a81c1261296bb37c7d7ede0103/main.dart
+file:///Users/rainvisitor/Documents/GitHub/GDG-DevFest-App/.dart_tool/flutter_build/2a3f5f2552a4703a7871966d4c3931ad/main.dart
 file:///Users/rainvisitor/Documents/GitHub/GDG-DevFest-App/.packages
 file:///Users/rainvisitor/Documents/GitHub/GDG-DevFest-App/lib/agenda/agenda_page.dart
 file:///Users/rainvisitor/Documents/GitHub/GDG-DevFest-App/lib/agenda/agenda_screen.dart
@@ -17,6 +17,7 @@ file:///Users/rainvisitor/Documents/GitHub/GDG-DevFest-App/lib/config/index.dart
 file:///Users/rainvisitor/Documents/GitHub/GDG-DevFest-App/lib/dialogs/error_dialog.dart
 file:///Users/rainvisitor/Documents/GitHub/GDG-DevFest-App/lib/faq/faq_page.dart
 file:///Users/rainvisitor/Documents/GitHub/GDG-DevFest-App/lib/find_devfest/find_devfest_page.dart
+file:///Users/rainvisitor/Documents/GitHub/GDG-DevFest-App/lib/generated_plugin_registrant.dart
 file:///Users/rainvisitor/Documents/GitHub/GDG-DevFest-App/lib/home/home_bloc.dart
 file:///Users/rainvisitor/Documents/GitHub/GDG-DevFest-App/lib/home/home_event.dart
 file:///Users/rainvisitor/Documents/GitHub/GDG-DevFest-App/lib/home/home_page.dart
@@ -48,14 +49,16 @@ file:///Users/rainvisitor/Documents/GitHub/GDG-DevFest-App/lib/utils/dependency_
 file:///Users/rainvisitor/Documents/GitHub/GDG-DevFest-App/lib/utils/devfest.dart
 file:///Users/rainvisitor/Documents/GitHub/GDG-DevFest-App/lib/utils/simple_bloc.dart
 file:///Users/rainvisitor/Documents/GitHub/GDG-DevFest-App/lib/utils/tools.dart
+file:///Users/rainvisitor/development/flutter/.pub-cache/git/plugins-ee9cccc3adede2d682c2e2a265fd568dd811732c/packages/url_launcher/url_launcher_web/lib/url_launcher_web.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/bloc-0.14.4/lib/bloc.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/bloc-0.14.4/lib/src/bloc.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/bloc-0.14.4/lib/src/bloc_delegate.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/bloc-0.14.4/lib/src/bloc_supervisor.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/bloc-0.14.4/lib/src/transition.dart
-file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/cached_network_image-1.1.1/lib/cached_network_image.dart
-file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/cached_network_image-1.1.1/lib/src/cached_image_widget.dart
-file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/cached_network_image-1.1.1/lib/src/cached_network_image_provider.dart
+file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/cached_network_image-2.0.0-rc/lib/cached_network_image.dart
+file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/cached_network_image-2.0.0-rc/lib/src/cached_image_widget.dart
+file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/cached_network_image-2.0.0-rc/lib/src/cached_network_image_provider.dart
+file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/cached_network_image-2.0.0-rc/lib/src/scaled_file_image.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.2/lib/ascii.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.2/lib/charcode.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.2/lib/html_entity.dart
@@ -120,13 +123,13 @@ file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_bloc-0.20.0/lib/src/multi_bloc_provider.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_bloc-0.20.0/lib/src/multi_repository_provider.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_bloc-0.20.0/lib/src/repository_provider.dart
-file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_cache_manager-1.1.1/lib/flutter_cache_manager.dart
-file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_cache_manager-1.1.1/lib/src/cache_manager.dart
-file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_cache_manager-1.1.1/lib/src/cache_object.dart
-file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_cache_manager-1.1.1/lib/src/cache_store.dart
-file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_cache_manager-1.1.1/lib/src/file_fetcher.dart
-file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_cache_manager-1.1.1/lib/src/file_info.dart
-file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_cache_manager-1.1.1/lib/src/web_helper.dart
+file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_cache_manager-1.1.3/lib/flutter_cache_manager.dart
+file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_cache_manager-1.1.3/lib/src/cache_manager.dart
+file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_cache_manager-1.1.3/lib/src/cache_object.dart
+file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_cache_manager-1.1.3/lib/src/cache_store.dart
+file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_cache_manager-1.1.3/lib/src/file_fetcher.dart
+file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_cache_manager-1.1.3/lib/src/file_info.dart
+file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_cache_manager-1.1.3/lib/src/web_helper.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_spinkit-3.1.0/lib/flutter_spinkit.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_spinkit-3.1.0/lib/src/chasing_dots.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_spinkit-3.1.0/lib/src/circle.dart
@@ -381,7 +384,9 @@ file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.1.0/lib/term_glyph.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_buffers.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_data.dart
-file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.1.1/lib/url_launcher.dart
+file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.2.4/lib/url_launcher.dart
+file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-1.0.1/lib/method_channel_url_launcher.dart
+file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-1.0.1/lib/url_launcher_platform_interface.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/uuid-2.0.2/lib/uuid.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/uuid-2.0.2/lib/uuid_util.dart
 file:///Users/rainvisitor/development/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/hash.dart
@@ -417,7 +422,9 @@ file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_eng
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/bitmap_canvas.dart
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/browser_detection.dart
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/browser_location.dart
+file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/color_filter.dart
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/canvas.dart
+file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/color_filter.dart
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/engine_delegate.dart
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/fonts.dart
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/compositor/image.dart
@@ -451,6 +458,8 @@ file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_eng
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/plugins.dart
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/pointer_binding.dart
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/recording_canvas.dart
+file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/render_vertices.dart
+file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/rrect_renderer.dart
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/semantics/accessibility.dart
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/semantics/checkable.dart
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/semantics/image.dart
@@ -475,6 +484,7 @@ file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_eng
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/surface/picture.dart
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/surface/platform_view.dart
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/surface/scene.dart
+file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/surface/scene_builder.dart
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/surface/surface.dart
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/surface/transform.dart
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/test_embedding.dart
@@ -486,7 +496,8 @@ file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_eng
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/text/unicode_range.dart
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/text/word_break_properties.dart
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/text/word_breaker.dart
-file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/text_editing.dart
+file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/text_editing/input_type.dart
+file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/text_editing/text_editing.dart
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/util.dart
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/validators.dart
 file:///Users/rainvisitor/development/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/vector_math.dart
@@ -535,6 +546,7 @@ file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/cupertino
 file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/cupertino/constants.dart
 file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/cupertino/date_picker.dart
 file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/cupertino/dialog.dart
+file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/cupertino/icon_theme_data.dart
 file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/cupertino/icons.dart
 file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/cupertino/interface_level.dart
 file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/cupertino/localizations.dart
@@ -546,6 +558,7 @@ file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/cupertino
 file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/cupertino/scrollbar.dart
 file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/cupertino/segmented_control.dart
 file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/cupertino/slider.dart
+file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/cupertino/sliding_segmented_control.dart
 file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/cupertino/switch.dart
 file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/cupertino/tab_scaffold.dart
 file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/cupertino/tab_view.dart
@@ -658,6 +671,7 @@ file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/material/
 file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/material/drawer.dart
 file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/material/drawer_header.dart
 file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/material/dropdown.dart
+file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/material/elevation_overlay.dart
 file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/material/expand_icon.dart
 file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/material/expansion_panel.dart
 file:///Users/rainvisitor/development/flutter/packages/flutter/lib/src/material/expansion_tile.dart
@@ -962,3 +976,6 @@ file:///Users/rainvisitor/development/flutter/packages/flutter_localizations/lib
 file:///Users/rainvisitor/development/flutter/packages/flutter_localizations/lib/src/material_localizations.dart
 file:///Users/rainvisitor/development/flutter/packages/flutter_localizations/lib/src/utils/date_localizations.dart
 file:///Users/rainvisitor/development/flutter/packages/flutter_localizations/lib/src/widgets_localizations.dart
+file:///Users/rainvisitor/development/flutter/packages/flutter_web_plugins/lib/flutter_web_plugins.dart
+file:///Users/rainvisitor/development/flutter/packages/flutter_web_plugins/lib/src/plugin_event_channel.dart
+file:///Users/rainvisitor/development/flutter/packages/flutter_web_plugins/lib/src/plugin_registry.dart
